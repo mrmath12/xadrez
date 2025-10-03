@@ -11,6 +11,4 @@ int main () {
     }
 
     return 0;
-}git remote add origin https://github.com/mrmath12/xadrez.git
-git branch -M main
-git push -u origin main
+}
